@@ -1,0 +1,44 @@
+body { 
+    line-height: 1; 
+    background-color: #f4f2f2;
+
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif; 
+    text-align: center;
+    color: #00008B;
+    margin-top: 50px;
+
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#searchInput{
+    font-family: 'Open Sans', sans-serif;
+    color:darkgrey;
+}
+
+input{
+    display: inline-block;
+    margin-left: 40%;
+    border: 3px solid;
+    border-color: #00008B;
+    width:20em;
+    height:2em;
+}
+
+/*
+button{
+    width: 7em;
+    height: 2em;
+    background-color:#00008B;
+    color:white;
+    border: transparent;
+    font-family: 'Open Sans', sans-serif;
+    position: center;
+    margin-left: 45%;
+
+}*/

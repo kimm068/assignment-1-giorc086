@@ -2,10 +2,11 @@
 Assignment 1 
 Cecilia Giorcelli
 
-![alt text](/screenshots/searchBox1.png?raw=true)
-
 Preview here:
 https://web-advanced-fall-2016.github.io/assignment-1-giorc086/
+
+![alt text](/screenshots/searchBox1.png?raw=true)
+![alt text](/screenshots/searchBox3.png?raw=true)
 
 #### What does it mean?
 
